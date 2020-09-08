@@ -18,7 +18,7 @@
         
         <div class="col-md-12">
             <div class="judul-tabel mb-3">
-                <h5>Rekap Daftar Customer</h5>
+                <h5>Rekap Daftar Customer Yang Telah Di Input</h5>
             </div>
 
             <div class="card">
