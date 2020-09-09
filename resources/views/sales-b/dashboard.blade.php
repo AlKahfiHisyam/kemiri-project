@@ -6,7 +6,7 @@
 
 @section('content')
 <!-- Content -->
-<div class="content" style="background-color: #f4f5fd">
+<div class="content">
 
     <div class="page-header">
         <h4>Dashboard</h4>
