@@ -16,7 +16,7 @@
     </div>
 
     <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-4">
             <div class="card">
                 <div class="card-body">
                     <div class="d-flex justify-content-between">
@@ -44,27 +44,54 @@
             </div>
         </div>
 
-        <div class="col-md-6">
-            <div class="card">
-                <div class="judul-tabel mt-4 ml-4">
-                    <h5>Stock Bahan Baku</h5>
+        <div class="col-lg-8 d-flex align-items-center">
+            <div class="row">
+                <div class="col-md">
+                    <div class="card">
+                        <div class="card-body">
+                            <h6 class="card-title">Stock Bahan Baku Plastik Bekas</h6>
+                            <div class="d-flex align-items-center mb-3">
+                                <div>
+                                    <div class="avatar">
+                                        <span class="avatar-title bg-primary-bright text-primary rounded-pill">
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="font-weight-bold ml-1 font-size-30 ml-3">265</div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-                <div class="card-body">
-                    <div class="table-responsive">
-                        <table id="customer-table" class="table table-bordered table-responsive-stack">
-                            <thead class="thead-dark">
-                                <th scope="col">Plastik Bekas</th>
-                                <th scope="col">Plastik Virgin</th>
-                                <th scope="col">Pewarna</th>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td>265</td>
-                                    <td>80</td>
-                                    <td>30</td>
-                                </tr>
-                            </tbody>
-                        </table>
+                <div class="col-md">
+                    <div class="card">
+                        <div class="card-body">
+                            <h6 class="card-title">Stock Bahan Baku Plastik Virgin</h6>
+                            <div class="d-flex align-items-center mb-3">
+                                <div>
+                                    <div class="avatar">
+                                        <span class="avatar-title bg-success text-info rounded-pill">
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="font-weight-bold ml-1 font-size-30 ml-3">80</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md">
+                    <div class="card">
+                        <div class="card-body">
+                            <h6 class="card-title">Stock Bahan Baku Pewarna</h6>
+                            <div class="d-flex align-items-center mb-3">
+                                <div>
+                                    <div class="avatar">
+                                        <span class="avatar-title bg-warning text-secondary rounded-pill">
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="font-weight-bold ml-1 font-size-30 ml-3">30</div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
