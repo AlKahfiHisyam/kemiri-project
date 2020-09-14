@@ -102,7 +102,7 @@
         <div class="col-md-12">
             <div class="card">
                 <div class="judul-tabel mt-4 ml-4">
-                    <h5>Rekap Daftar Operator Mesin Yang Belum Di Lakukan Pencatatan Produksi</h5>
+                    <h5>Rekap Daftar Operator Mesin Yang Belum Selesai Di Lakukan Pencatatan Produksi</h5>
                 </div>
                 <div class="card-body">
                     <div class="table-responsive">
