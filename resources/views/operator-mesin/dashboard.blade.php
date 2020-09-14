@@ -49,7 +49,7 @@
                 <div class="col-md">
                     <div class="card">
                         <div class="card-body">
-                            <h6 class="card-title">Stock Bahan Baku Plastik Bekas</h6>
+                            <h6 class="card-title">Jumlah Stock Plastik Bekas</h6>
                             <div class="d-flex align-items-center mb-3">
                                 <div>
                                     <div class="avatar">
@@ -65,7 +65,7 @@
                 <div class="col-md">
                     <div class="card">
                         <div class="card-body">
-                            <h6 class="card-title">Stock Bahan Baku Plastik Virgin</h6>
+                            <h6 class="card-title">Jumlah Stock Plastik Virgin</h6>
                             <div class="d-flex align-items-center mb-3">
                                 <div>
                                     <div class="avatar">
@@ -81,7 +81,7 @@
                 <div class="col-md">
                     <div class="card">
                         <div class="card-body">
-                            <h6 class="card-title">Stock Bahan Baku Pewarna</h6>
+                            <h6 class="card-title">Jumlah Stock Pewarna</h6>
                             <div class="d-flex align-items-center mb-3">
                                 <div>
                                     <div class="avatar">
