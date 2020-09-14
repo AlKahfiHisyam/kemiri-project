@@ -16,10 +16,90 @@
     </div>
 
     <div class="row">
+        <div class="col d-flex align-items-center justify-content-center">
+            <div class="row">
+                <div class="col-md">
+                    <div class="card">
+                        <div class="card-body">
+                            <h6 class="card-title">Jumlah Stock Plastik Bekas</h6>
+                            <div class="d-flex align-items-center">
+                                <div>
+                                    <div class="avatar">
+                                        <span class="avatar-title bg-primary-bright text-primary rounded-pill">
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="font-weight-bold ml-1 font-size-30 ml-3">265</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md">
+                    <div class="card">
+                        <div class="card-body">
+                            <h6 class="card-title">Jumlah Stock Plastik Virgin</h6>
+                            <div class="d-flex align-items-center">
+                                <div>
+                                    <div class="avatar">
+                                        <span class="avatar-title bg-success text-info rounded-pill">
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="font-weight-bold ml-1 font-size-30 ml-3">80</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md">
+                    <div class="card">
+                        <div class="card-body">
+                            <h6 class="card-title">Jumlah Stock Pewarna</h6>
+                            <div class="d-flex align-items-center">
+                                <div>
+                                    <div class="avatar">
+                                        <span class="avatar-title bg-warning text-secondary rounded-pill">
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="font-weight-bold ml-1 font-size-30 ml-3">30</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-body">
+                    <div class="text-center">
+                        <h6 class="card-title mb-4 text-center">Total Penjualan Bulan ini</h6>
+                        <h2 class="font-size-35 font-weight-bold text-center">Rp 10.000.000</h2>
+                        <p>Angka diatas menunjukkan total penjualan barang pada bulan ini</p>
+                    </div>
+                </div>
+            </div>            
+        </div>
+        <div class="col-md-6">
+            <div class="card bg-info-bright">
+                <div class="card-body">
+                    <div class="text-center">
+                        <h6 class="card-title mb-4 text-center">Total Penjualan Minggu Ini</h6>
+                        <h2 class="font-size-35 font-weight-bold text-center">Rp 3.500.000</h2>
+                        <p>Angka diatas menunjukkan total penjualan barang pada minggu ini</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
         <div class="col-md-4">
             <div class="card">
                 <div class="judul-tabel mt-3 ml-4">
-                    <h5>Supplier Penerimaan Bahan Baku</h5>
+                    <h5>Rekap Supplier Penerimaan Bahan Baku Minggu ini</h5>
                 </div>
                 <div class="card-body">
                     <div class="table-responsive">
@@ -42,7 +122,7 @@
         <div class="col-md-4">
             <div class="card">
                 <div class="judul-tabel mt-3 ml-4">
-                    <h5>Order Barang Yang Masih Di Proses</h5>
+                    <h5>Rekap Daftar Order Barang Yang Masih Di Proses</h5>
                 </div>
                 <div class="card-body">
                     <div class="table-responsive">
@@ -65,7 +145,7 @@
         <div class="col-md-4">
             <div class="card">
                 <div class="judul-tabel mt-3 ml-4">
-                    <h5>Pengiriman Barang Yang Masih Pending</h5>
+                    <h5>Rekap Daftar Pengiriman Barang Yang Masih Pending</h5>
                 </div>
                 <div class="card-body">
                     <div class="table-responsive">
